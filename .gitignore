@@ -31,6 +31,8 @@
 *.so
 *.so.*
 *.dylib
+*.xml
+.idea
 
 # Executables
 *.exe
@@ -148,3 +150,4 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/c,macos,clion
+test
